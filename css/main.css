@@ -27,6 +27,8 @@ h6 {
   background: #37a0a0;
 }
 
+
+
 .top-header {
   text-align: center;
 }
@@ -74,4 +76,47 @@ h6 {
   color: #a87bb7;
   font-size: 1em;
   line-height: 1.5;
+}
+
+.middle-content {
+  padding: 2em;
+  background: #f6f6f6;
+  text-align: center;
+}
+
+.middle-content-title {
+  font-size: 1.25em;
+  color: #652e79;
+  text-transform: uppercase;
+}
+
+.middle-content p {
+  line-height: 1.5;
+  color: #222;
+}
+
+.middle-content span[class^=icon] {
+  font-size: 3.5em;
+  color: #652e79;
+}
+
+.main-content {
+  padding: 2em;
+}
+
+.main-content p {
+  line-height: 1.2;
+
+}
+
+.main-content-article {
+  margin-bottom: 3.5em;
+}
+
+.middle-content-title {
+  letter-spacing: .2em;
+  font-size: 1.25em;
+  color: #652e78;
+  text-transform: uppercase;
+  font-weight: normal;
 }
