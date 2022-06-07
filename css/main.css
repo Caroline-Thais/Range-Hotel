@@ -226,6 +226,29 @@ h6 {
     height: 15em;
     padding-top: 15em;
     background-size: cover;
+  }
+}
 
+@media screen and (min-width: 74em) {
+
+  .top-content {
+    background-image: url(../imagens/bg_topo_1600x1374.jpg);
+    padding: 19em 20em 10em;
+    background-position: center top;
+  }
+
+  .col-1-4 {
+    width: 23%;
+    margin: 1%;
+  }
+
+  .col-1-2 {
+    width: 48%;
+    margin: 1%;
+    float: left;
+  }
+
+  .main-content-article .button {
+    font: none;
   }
 }
